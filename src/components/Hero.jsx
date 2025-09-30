@@ -97,7 +97,7 @@ export function Hero() {
         {/* Name and Title */}
         <motion.div variants={itemVariants} className="name-section">
           <motion.h3 className="developer-name">
-            Alex Johnson
+            Talal Zeb Abbasi
           </motion.h3>
           <motion.h1 className="hero-title">
             Frontend
